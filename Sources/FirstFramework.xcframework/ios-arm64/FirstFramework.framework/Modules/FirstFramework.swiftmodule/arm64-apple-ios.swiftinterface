@@ -8,6 +8,7 @@ import UIKit
 import _Concurrency
 @objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class DemoUIViewController : UIKit.UIViewController {
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
+  @objc dynamic public init()
   @objc deinit
 }
 public struct SDK {
