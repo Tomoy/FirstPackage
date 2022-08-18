@@ -4,9 +4,13 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>DemoUIViewController.nib</key>
+		<data>
+		KL4rGzCKBvm+KlLVSSUwUpcC2ro=
+		</data>
 		<key>Headers/FirstFramework-Swift.h</key>
 		<data>
-		cT6lEkTpSl03fKTNIiIZzZ7LNW4=
+		SqNrCOnR2n28+RBKvAai4JGyVKs=
 		</data>
 		<key>Headers/FirstFramework.h</key>
 		<data>
@@ -22,11 +26,11 @@
 		</data>
 		<key>Modules/FirstFramework.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		U5MTy5I+LoIM3D5mQ0GkXVqr6IY=
+		0E5uwYkVQIObwXgDtHYpOytw9D8=
 		</data>
 		<key>Modules/FirstFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		WC16HDupPzfH7X5Np/f7bMvzdfM=
+		Z0RiPOjq4L7db5pHdwq5oaqgWqY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -35,11 +39,18 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>DemoUIViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			c0fRyI0/DmzvN++cwOoLe0tiZ3GworIvfqWrywlArqs=
+			</data>
+		</dict>
 		<key>Headers/FirstFramework-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			m+9qzVaTrdDFdoGshJ4ezqB8f6bgJA+T27fSVXrCrX0=
+			UC2qgWy4j+f27b66+nf4ohmZfdIN14/A8pXlANozl+w=
 			</data>
 		</dict>
 		<key>Headers/FirstFramework.h</key>
@@ -60,14 +71,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Bl3WKprwCpV4Ka7uPGce6xeroi78kTMTI1GEVcmptlM=
+			f4Ns+eE/cy03tJ03yqL8c7iTaytGbgfF15qJYCC2DYE=
 			</data>
 		</dict>
 		<key>Modules/FirstFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3Vy5dJOBEKF383MjxAAqcSy2/+rrbw9GLwEETsupKrE=
+			H2rOtOlii5fwKa0W+CEx/wgIXThH8ieAxpShHdgreJo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

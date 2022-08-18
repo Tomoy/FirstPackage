@@ -4,7 +4,12 @@
 @_exported import FirstFramework
 import Foundation
 import Swift
+import UIKit
 import _Concurrency
+@objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class DemoUIViewController : UIKit.UIViewController {
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
+  @objc deinit
+}
 public struct SDK {
   public static func configure(apikey: Swift.String)
   public static func start()
