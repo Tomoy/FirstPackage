@@ -225,7 +225,6 @@ SWIFT_CLASS("_TtC14FirstFramework20DemoUIViewController")
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil SWIFT_UNAVAILABLE;
 @end
 
-
 #if __has_attribute(external_source_symbol)
 # pragma clang attribute pop
 #endif
