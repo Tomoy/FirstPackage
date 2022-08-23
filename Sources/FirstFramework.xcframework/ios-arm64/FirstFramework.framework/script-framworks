@@ -21,6 +21,7 @@ BUILD_LIBRARY_FOR_DISTRIBUTION=YES
 
 ##Create a framework from an xcarchive
 
--create-xcframework \
+xcodebuild -create-xcframework \
 -framework './build/FirstFramework.framework-iphoneos.xcarchive/Products/Library/Frameworks/FirstFramework.framework' \
 -output './build/FirstFramework.xcframework'
+
