@@ -26,11 +26,11 @@
 		</data>
 		<key>Modules/FirstFramework.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		vO1AyzUGgJ6CGtEAApysyIkR+ZA=
+		58TmkHY92WOyUV9ZJvM8nmpwNco=
 		</data>
 		<key>Modules/FirstFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		q5fBHJXYFgh924nX5B19U3CE2Nw=
+		cOGpx3uIrGSUzRcz8bxEAUdPd5I=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>script-framworks</key>
 		<data>
-		Cr2KDsDOWK0M9D0ZZyaDHLr+Dl0=
+		avj5WAs0ii5uyzGH5q9a+MXKzL8=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -75,14 +75,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SQY2471GlAj1IK6Y7UYGboxl4DnPr0fzM4NfgMG2f6Q=
+			oaMhncfuGlEsfp5s6qbLXnORgTPGe71SCgTOqd1YxRY=
 			</data>
 		</dict>
 		<key>Modules/FirstFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3gFMzbH+UoMDs0kHBv/uVjylb7jp8tv0ZHqIr0FL7K8=
+			HWKBZzmV9QY1/ciVJIKKqMDV0MbwvV4MXM6slCg9Ch0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -96,7 +96,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GEhkBSvFb5/36F/sKtIDFCxHf52TuqKPMPe7tiQhRII=
+			4Ty1PGrQo9p2mVoFcLE5o4HR2gOUo5exeX9y1d1rz7o=
 			</data>
 		</dict>
 	</dict>
