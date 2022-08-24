@@ -3,7 +3,7 @@
 // swift-module-flags: -target x86_64-apple-ios15.5-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name FirstFramework
 @_exported import FirstFramework
 import Foundation
-import ShapeQRCode
+import MKRingProgressView
 import Swift
 import UIKit
 import _Concurrency
