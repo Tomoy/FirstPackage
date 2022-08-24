@@ -12,7 +12,7 @@ let package = Package(
         // Products define the executables and libraries a package produces, and make them visible to other packages.
         .library(
             name: "FirstPackage",
-            targets: ["FirstFramework"]),
+            targets: ["FirstPackage"]),
     ],
     dependencies: [
         .package(url: "https://github.com/maxkonovalov/MKRingProgressView.git", from: "2.3.0")
